@@ -1,3 +1,5 @@
+import numpy as np
+import pandas as pd
 from collections import Counter
 
 def custom_KNN(point, X_train, y_train, n):
