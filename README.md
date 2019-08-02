@@ -5,6 +5,7 @@ All things classification.
 ##### KNN - Predict whether a patient has diabetes or not.
 ##### SVM (linear kernel) - Predict whether a patient has benign or malignant breast cancer
 ##### Naive Bayes Classifier - Predict whether an incoming SMS/Email is Spam or Ham (non-spam)
+##### Gausian Naive Bayes TD-IDF Classifier - Predict whether a tweet promotes Xenophobia or not
 
 Some more to come:
 > Logistic Regression Classifier
